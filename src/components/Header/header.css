@@ -1,0 +1,11 @@
+.active {
+  color: #ff444a !important;
+  text-decoration: underline;
+  background-color: transparent !important;
+}
+.menu li a:hover {
+  color: #ff444a !important;
+  text-decoration: underline;
+  background-color: transparent !important;
+  transition: 0.5 all ease-in-out;
+}

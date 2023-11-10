@@ -1,0 +1,147 @@
+[
+  {
+    "id": "1",
+    "tumbnail": "https://i.ibb.co/Th90zbj/health.png",
+    "title": "Clean Water for Children",
+    "category": "Health",
+    "cover": "https://i.ibb.co/RBvRY71/health-bg.png",
+    "category_bg": "#aec7ff",
+    "card_bg": "#d9e5ff",
+    "text_color": "#0052FF",
+    "description": "Your donation brings life-saving clean water to underprivileged kids in need. Ensure a healthy future by providing access to safe drinking water. Join us in making a positive impact today.",
+    "price": 25
+  },
+  {
+    "id": "2",
+    "tumbnail": "https://i.ibb.co/mccq6jM/edu.png",
+    "title": "Good Education",
+    "category": "Education",
+    "cover": "https://i.ibb.co/X5hxVHs/edu-bg.png",
+    "category_bg": "#ffc4c5",
+    "card_bg": "#ffe3e4",
+    "text_color": "#FF444A",
+    "description": "Invest in the future by supporting quality education initiatives for disadvantaged students. Your contribution empowers young minds, providing them with the knowledge and tools to build a brighter tomorrow. Together, we can break down barriers to learning and ensure every child has access to educational opportunities. Join us in shaping a world where education is a transformative force for all.",
+    "price": 50
+  },
+  {
+    "id": "3",
+    "tumbnail": "https://i.ibb.co/fMCJFmb/cloth.png",
+    "title": "Shelter for the Homeless",
+    "category": "Clothing",
+    "cover": "https://i.ibb.co/LttG6SJ/cloth-bg.png",
+    "category_bg": "#d4ecc2",
+    "card_bg": "#ebf6e2",
+    "text_color": "#79C23F",
+    "description": "Support our mission to provide safe and warm shelter to homeless individuals in need. Your contribution ensures they have a place to call home, even during the harshest conditions. Help us provide essential services and restore hope to those experiencing homelessness. Together, we can make a lasting impact on their lives.",
+    "price": 35
+  },
+  {
+    "id": "4",
+    "tumbnail": "https://i.ibb.co/qgRzqQj/food.png",
+    "title": "Nutritious Meals for Families",
+    "category": "Food",
+    "cover": "https://i.ibb.co/5nNQbtx/food-bg.png",
+    "category_bg": "#fdd2c4",
+    "card_bg": "#feeae4",
+    "text_color": "#F87147",
+    "description": "Help provide wholesome meals to struggling families in your community. Your support ensures that no one goes to bed hungry, promoting food security and well-being. Join us in the fight against hunger today",
+    "price": 15
+  },
+  {
+    "id": "5",
+    "tumbnail": "https://i.ibb.co/qgRzqQj/food.png",
+    "title": "All Person need Food",
+    "category": "Food",
+    "cover": "https://i.ibb.co/5nNQbtx/food-bg.png",
+    "category_bg": "#fdd2c4",
+    "card_bg": "#feeae4",
+    "text_color": "#F87147",
+    "description": "All persons require food for sustenance, as it is an essential part of human life. Food provides the necessary nutrients and energy needed to function and thrive. It not only nourishes the body but also plays a significant role in cultural and social aspects of our lives. Access to adequate and nutritious food is a fundamental human right that should be available to all individuals.",
+    "price": 20
+  },
+  {
+    "id": "6",
+    "tumbnail": "https://i.ibb.co/fMCJFmb/cloth.png",
+    "title": "Cloth for Families",
+    "category": "Clothing",
+    "cover": "https://i.ibb.co/LttG6SJ/cloth-bg.png",
+    "category_bg": "#d4ecc2",
+    "card_bg": "#ebf6e2",
+    "text_color": "#79C23F",
+    "description": "Your donation can make a difference in the lives of those in need. Show your support with our Healthcare Access for All t-shirt.",
+    "price": 40
+  },
+  {
+    "id": "7",
+    "tumbnail": "https://i.ibb.co/mccq6jM/edu.png",
+    "title": "Education for All",
+    "category": "Education",
+    "cover": "https://i.ibb.co/X5hxVHs/edu-bg.png",
+    "category_bg": "#ffc4c5",
+    "card_bg": "#ffe3e4",
+    "text_color": "#FF444A",
+    "description": "Support quality education initiatives for disadvantaged students. Your contribution will help pave the way for a brighter future through education.",
+    "price": 25
+  },
+  {
+    "id": "8",
+    "tumbnail": "https://i.ibb.co/Th90zbj/health.png",
+    "title": "Healthcare Access for All",
+    "category": "Health",
+    "cover": "https://i.ibb.co/RBvRY71/health-bg.png",
+    "category_bg": "#aec7ff",
+    "card_bg": "#d9e5ff",
+    "text_color": "#0052FF",
+    "description": "Ensure everyone has access to essential healthcare services. Your donation can make a difference in the lives of those in need.",
+    "price": 30
+  },
+
+  {
+    "id": "9",
+    "tumbnail": "https://i.ibb.co/Th90zbj/health.png",
+    "title": "Medical Research Advancements",
+    "category": "Health",
+    "cover": "https://i.ibb.co/RBvRY71/health-bg.png",
+    "category_bg": "#aec7ff",
+    "card_bg": "#d9e5ff",
+    "text_color": "#0052FF",
+    "description": "Fund medical research to find cures and treatments for life-threatening diseases. Your contribution can save lives.",
+    "price": 40
+  },
+  {
+    "id": "10",
+    "tumbnail": "https://i.ibb.co/mccq6jM/edu.png",
+    "title": "Empowering through  Education",
+    "category": "Education",
+    "cover": "https://i.ibb.co/X5hxVHs/edu-bg.png",
+    "category_bg": "#ffc4c5",
+    "card_bg": "#ffe3e4",
+    "text_color": "#FF444A",
+    "description": "Invest in the future by supporting quality education initiatives that empower students to unlock their full potential. Your contribution will help provide access to a well-rounded education, including essential resources, skilled teachers, and innovative learning environments. Together, we can shape a brighter future where every child has the opportunity to thrive academically and build a solid foundation for lifelong success. Join us in making education a catalyst for positive change and a pathway to brighter tomorrows.",
+    "price": 50
+  },
+  {
+    "id": "11",
+    "tumbnail": "https://i.ibb.co/fMCJFmb/cloth.png",
+    "title": "Warmth and Cozy Cloth",
+    "category": "Clothing",
+    "cover": "https://i.ibb.co/LttG6SJ/cloth-bg.png",
+    "category_bg": "#d4ecc2",
+    "card_bg": "#ebf6e2",
+    "text_color": "#79C23F",
+    "description": "we aim to bring warmth and dignity to individuals and families in need. Your contribution goes beyond just providing clothing; it restores a sense of pride and comfort to those facing challenging circumstances. By donating to 'Warmth and Dignity: Clothing for All,' you ensure that everyone, regardless of their circumstances, has access to clean, quality clothing to protect against the elements and maintain their self-esteem. Join us in making a significant impact on the lives of those who need it most by contributing to this essential cause.",
+    "price": 35
+  },
+  {
+    "id": "12",
+    "tumbnail": "https://i.ibb.co/qgRzqQj/food.png",
+    "title": "Sustenance for Families",
+    "category": "Food",
+    "cover": "https://i.ibb.co/5nNQbtx/food-bg.png",
+    "category_bg": "#fdd2c4",
+    "card_bg": "#feeae4",
+    "text_color": "#F87147",
+    "description": "Ensure that families have access to nourishing meals. Your donation supports struggling families and helps end hunger in our community.",
+    "price": 15
+  }
+]

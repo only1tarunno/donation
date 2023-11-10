@@ -1,0 +1,11 @@
+.img-container::after {
+  content: ".";
+  position: absolute;
+  height: 130px;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  background-color: #000;
+  opacity: 0.5;
+  z-index: 0;
+}
